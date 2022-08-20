@@ -13,22 +13,20 @@ So:
 
 
 ### pip install to your project
-pipenv install git+https://github.com/talbalelty/video_separation.git#egg=video_separation
+pipenv install git+https://github.com/BenK93/OpenCV-Reflection-Seperation.git#egg=video_separation
 # Result: 
-<div align="center">
-    <div  style="display: inline-flex; margin: auto;">
-        <div>
-            <h3>Reflection</h3>
-          <img src="docs/images/reflectionVid.gif" alt="demo" width="270px">
-        </div>
-        <div>
-            <h3>Origin</h3>
-          <img src="docs/images/originVid.gif" alt="demo" width="270px">
-        </div>
-        <div>
-            <h3>Transmission</h3>
-          <img src="docs/images/transmissionVid.gif" alt="demo" width="270px">
-        </div>
+<div align="center" style="display: inline-flex; margin: auto;">
+    <div>
+        <h3>Reflection</h3>
+      <img src="docs/images/reflectionVid.gif" alt="demo" width="270px">
+    </div>
+    <div>
+        <h3>Origin</h3>
+      <img src="docs/images/originVid.gif" alt="demo" width="270px">
+    </div>
+    <div>
+        <h3>Transmission</h3>
+      <img src="docs/images/transmissionVid.gif" alt="demo" width="270px">
     </div>
 </div>
 
