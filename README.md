@@ -24,9 +24,9 @@ pipenv install git+https://github.com/BenK93/OpenCV-Reflection-Seperation.git#eg
   </tr>
 
   <tr>
-    <td><img src="docs/images/reflectionVid.gif" width="220" alt="2d sparse"></td>
-    <td><img src="docs/images/originVid.gif"  width="220" alt="2d dense"></td>
-    <td><img src="docs/images/transmissionVid.gif"   width="220" alt="3d"></td>
+    <td><img src="docs/images/reflectionVid.gif" width="220" ></td>
+    <td><img src="docs/images/originVid.gif"  width="220" ></td>
+    <td><img src="docs/images/transmissionVid.gif"   width="220" ></td>
   </tr>
 
 
